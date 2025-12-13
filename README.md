@@ -20,3 +20,4 @@ ML_final_report/
 ├── .gitignore          # Git 관리 제외 목록
 └── README.md           # 프로젝트 설명
 ```# 25-2-ML-final-report
+# 25-2-ML-final-report
