@@ -1,0 +1,23 @@
+# Data
+data/
+*.csv
+*.zip
+
+# Config & Secrets
+.env/
+kaggleAPI.sh
+kaggle.json
+secrets.json
+
+# Environment
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
