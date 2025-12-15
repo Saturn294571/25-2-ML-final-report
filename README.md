@@ -19,5 +19,4 @@ ML_final_report/
 ├── .env/               # API 키 등 민감한 정보 (Git 제외됨)
 ├── .gitignore          # Git 관리 제외 목록
 └── README.md           # 프로젝트 설명
-```# 25-2-ML-final-report
-# 25-2-ML-final-report
+```
