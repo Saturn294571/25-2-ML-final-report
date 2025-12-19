@@ -21,3 +21,8 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# marp
+*.pdf
+.vscode/
+a4-light.css
